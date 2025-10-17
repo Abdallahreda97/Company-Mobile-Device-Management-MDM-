@@ -23,7 +23,7 @@ The goal was to enhance device security, control user access, and standardize th
 - Improved compliance with company IT policies.
 
 ### 📸 Screenshots
-
+https://github.com/Abdallahreda97/Company-Mobile-Device-Management-MDM-/blob/main/elwafaa%20mdm.jpg
 
 ### 📅 Date of Implementation
 *October 2025*
